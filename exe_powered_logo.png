@@ -1,0 +1,1163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202606112048599LX4VL</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260611204859UH72YN</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>CREAMOS NUESTRO CUENTO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Silvia Vilches Cabuchola </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>
+</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1781203325357</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mq9ugmgc-jrq40pmxt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9ugmgc-jrq40pmxt</odePageId>
+      <odeBlockId>block-1780483938325-d1aoohgwp</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9ugmgc-jrq40pmxt</odePageId>
+          <odeBlockId>block-1780483938325-d1aoohgwp</odeBlockId>
+          <odeIdeviceId>idevice-1780483938312-ywvjug6h5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2 style="text-align: center;">📚✨ Creamos nuestro cuento digital ✨📚</h2>
+<h6><br />¡Bienvenidos y bienvenidas a nuestro proyecto! 👋</h6>
+<p>En esta situación de aprendizaje vamos a convertirnos en escritores/as. 📝🎨💻</p>
+<p>A lo largo de esta aventura aprenderemos a inventar un cuento, organizar nuestras ideas, crear personajes, elegir un lugar, pensar una aventura y preparar un final. Después, transformaremos nuestro cuento en un cuento digital, utilizando imágenes, texto y otros recursos de forma guiada, segura.</p>
+<p style="text-align: center;"><strong>🌟 ¿Qué vamos a hacer?🌟</strong></p>
+<p style="text-align: justify;"><br />📖 Escucharemos y leeremos cuentos.<br />🧩 Aprenderemos las partes de una historia: inicio, nudo y desenlace.<br />🧙‍♀️ Elegiremos personajes, lugares y problemas.<br />✏️ Escribiremos frases sencillas.<br />🎨 Añadiremos dibujos o imágenes.<br />🔍 Revisaremos nuestro trabajo.<br />🗣️ Presentaremos nuestro cuento digital a los compañeros y compañeras.<br />🚀 Nuestro reto<br /></p>
+<p style="text-align: justify;">Crear un cuento digital original, bonito y seguro para compartirlo con la clase. 🌈</p>
+<p>Autora del recurso: Silvia Vilches<br />Proyecto: Creamos nuestro cuento digital<br />Nivel: 1.º de Educación Primaria</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780483938312-ywvjug6h5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2 style=\"text-align: center;\">📚✨ Creamos nuestro cuento digital ✨📚</h2>\n<h6><br />¡Bienvenidos y bienvenidas a nuestro proyecto! 👋</h6>\n<p>En esta situación de aprendizaje vamos a convertirnos en escritores/as. 📝🎨💻</p>\n<p>A lo largo de esta aventura aprenderemos a inventar un cuento, organizar nuestras ideas, crear personajes, elegir un lugar, pensar una aventura y preparar un final. Después, transformaremos nuestro cuento en un cuento digital, utilizando imágenes, texto y otros recursos de forma guiada, segura.</p>\n<p style=\"text-align: center;\"><strong>🌟 ¿Qué vamos a hacer?🌟</strong></p>\n<p style=\"text-align: justify;\"><br />📖 Escucharemos y leeremos cuentos.<br />🧩 Aprenderemos las partes de una historia: inicio, nudo y desenlace.<br />🧙‍♀️ Elegiremos personajes, lugares y problemas.<br />✏️ Escribiremos frases sencillas.<br />🎨 Añadiremos dibujos o imágenes.<br />🔍 Revisaremos nuestro trabajo.<br />🗣️ Presentaremos nuestro cuento digital a los compañeros y compañeras.<br />🚀 Nuestro reto<br /></p>\n<p style=\"text-align: justify;\">Crear un cuento digital original, bonito y seguro para compartirlo con la clase. 🌈</p>\n<p>Autora del recurso: Silvia Vilches<br />Proyecto: Creamos nuestro cuento digital<br />Nivel: 1.º de Educación Primaria</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9ugmgf-zlrq64qox</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9ugmgf-zlrq64qox</odePageId>
+      <odeBlockId>block-1780484236464-o2icqsi3p</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9ugmgf-zlrq64qox</odePageId>
+          <odeBlockId>block-1780484236464-o2icqsi3p</odeBlockId>
+          <odeIdeviceId>idevice-1780484236461-3g095hepa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h4 style="text-align: center;"><strong>🌈 Presentación del proyecto🌈 </strong></h4>
+<p style="text-align: center;"><br /><br /><em><strong>"Creamos nuestro cuento digital"</strong></em></p>
+<p><strong>👧🧒 ¿A quién va dirigido?</strong><br />Este proyecto está dirigido al alumnado de 1.º de Educación Primaria.</p>
+<p><strong>🎯 ¿Cuál es el objetivo?</strong><br />El objetivo principal es que el alumnado aprenda a crear un cuento sencillo, organizando sus ideas y utilizando recursos digitales de forma guiada, segura y responsable.</p>
+<p><strong>A través de este proyecto, aprenderemos a:</strong></p>
+<p>📖 Comprender cuentos sencillos.<br />🧩 Identificar las partes de una historia: inicio, nudo y desenlace.<br />🧙‍♀️ Inventar personajes, lugares y aventuras.<br />✏️ Escribir frases breves y claras.<br />🎨 Añadir dibujos o imágenes.<br />💻 Utilizar herramientas digitales con ayuda.<br />🤝 Trabajar en equipo y respetar las ideas de los demás.<br />🔐 Cuidar nuestros datos personales y nuestra seguridad digital.<br />🧠 ¿Por qué hacemos este proyecto?<br /></p>
+<p>Porque los cuentos nos ayudan a imaginar, expresarnos, leer, escribir y compartir nuestras ideas. Además, al crear un cuento digital, aprenderemos a usar la tecnología no solo para jugar, sino también para crear, comunicar y aprender.</p>
+<p>🏁 Producto final: al final del proyecto, cada alumno/a o equipo elaborará un cuento digital que incluirá:</p>
+<ul>
+<li>Un título.</li>
+<li>Personajes.</li>
+<li>Un lugar donde ocurre la historia.</li>
+<li>Inicio, nudo y desenlace.</li>
+<li>Dibujos o imágenes.</li>
+<li>Una pequeña presentación oral del cuento.</li>
+</ul>
+<p></p>
+<p><strong>💡 Aprenderemos creando💡</strong><br />Este proyecto nos ayudará a desarrollar la imaginación, la comunicación, la creatividad, el trabajo cooperativo y el uso responsable de las tecnologías digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780484236461-3g095hepa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h4 style=\"text-align: center;\"><strong>🌈 Presentación del proyecto🌈 </strong></h4>\n<p style=\"text-align: center;\"><br /><br /><em><strong>\"Creamos nuestro cuento digital\"</strong></em></p>\n<p><strong>👧🧒 ¿A quién va dirigido?</strong><br />Este proyecto está dirigido al alumnado de 1.º de Educación Primaria.</p>\n<p><strong>🎯 ¿Cuál es el objetivo?</strong><br />El objetivo principal es que el alumnado aprenda a crear un cuento sencillo, organizando sus ideas y utilizando recursos digitales de forma guiada, segura y responsable.</p>\n<p><strong>A través de este proyecto, aprenderemos a:</strong></p>\n<p>📖 Comprender cuentos sencillos.<br />🧩 Identificar las partes de una historia: inicio, nudo y desenlace.<br />🧙‍♀️ Inventar personajes, lugares y aventuras.<br />✏️ Escribir frases breves y claras.<br />🎨 Añadir dibujos o imágenes.<br />💻 Utilizar herramientas digitales con ayuda.<br />🤝 Trabajar en equipo y respetar las ideas de los demás.<br />🔐 Cuidar nuestros datos personales y nuestra seguridad digital.<br />🧠 ¿Por qué hacemos este proyecto?<br /></p>\n<p>Porque los cuentos nos ayudan a imaginar, expresarnos, leer, escribir y compartir nuestras ideas. Además, al crear un cuento digital, aprenderemos a usar la tecnología no solo para jugar, sino también para crear, comunicar y aprender.</p>\n<p>🏁 Producto final: al final del proyecto, cada alumno/a o equipo elaborará un cuento digital que incluirá:</p>\n<ul>\n<li>Un título.</li>\n<li>Personajes.</li>\n<li>Un lugar donde ocurre la historia.</li>\n<li>Inicio, nudo y desenlace.</li>\n<li>Dibujos o imágenes.</li>\n<li>Una pequeña presentación oral del cuento.</li>\n</ul>\n<p></p>\n<p><strong>💡 Aprenderemos creando💡</strong><br />Este proyecto nos ayudará a desarrollar la imaginación, la comunicación, la creatividad, el trabajo cooperativo y el uso responsable de las tecnologías digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9ugmgg-ptbejuwsj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Qué vamos a crear?</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué vamos a crear?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué vamos a crear?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9ugmgg-ptbejuwsj</odePageId>
+      <odeBlockId>block-1781199802531-kf5b82kxm</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9ugmgg-ptbejuwsj</odePageId>
+          <odeBlockId>block-1781199802531-kf5b82kxm</odeBlockId>
+          <odeIdeviceId>idevice-1781199802530-tmvf0g8bi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>🧚‍♀️ ¿Qué vamos a crear?</strong><br />En este proyecto vamos a crear un cuento digital. 📚💻</p>
+<p>Un cuento digital es una historia que podemos leer en una pantalla y que puede tener:</p>
+<p>✏️ Texto.<br />🎨 Dibujos o imágenes.<br />🎙️ Voz o audio, si es posible.<br />🌈 Colores y elementos visuales.<br />🧒 Personajes inventados.<br />🏰 Lugares mágicos o reales.<br />🧩 Una aventura con inicio, nudo y desenlace.<br />📖 Nuestro cuento tendrá…<br /></p>
+<p>Para que nuestro cuento esté completo, debe incluir:</p>
+<p>1. Un título ✨<br />El título nos dice cómo se llama nuestra historia.</p>
+<p>2. Personajes 🧙‍♂️🐉<br />Son las personas, animales o seres fantásticos que aparecen en el cuento.</p>
+<p>3. Lugar 🏰🌳🚀<br />Es el sitio donde ocurre la historia: un castillo, un bosque, una escuela, una ciudad, el espacio…</p>
+<p>4. Inicio 🟢<br />Aquí contamos quién aparece y dónde empieza la historia.</p>
+<p>5. Nudo 🟡<br />Aquí ocurre un problema, una aventura o una sorpresa.</p>
+<p>6. Desenlace 🔵<br />Aquí contamos cómo termina la historia.</p>
+<p>7. Imágenes o dibujos 🎨<br />Usaremos dibujos o imágenes adecuadas para acompañar nuestro cuento.</p>
+<p style="text-align: center;"><strong>🤝 ¿Cómo trabajaremos?</strong><br />Trabajaremos de forma guiada, algunas veces en gran grupo, otras veces en parejas o pequeños equipos.</p>
+<p>Cada persona tendrá una tarea importante:</p>
+<p>🧠 Pensar ideas.<br />✏️ Escribir frases.<br />🎨 Dibujar o elegir imágenes.<br />💻 Ayudar con la parte digital.<br />🗣️ Presentar el cuento.<br /></p>
+<p style="text-align: center;"><strong>🔐 Importante</strong></p>
+<p style="text-align: center;">Cuando creemos nuestro cuento digital, recordaremos que debemos usar la tecnología de forma segura y responsable:</p>
+<p>No escribiremos datos personales.<br />No usaremos fotos de compañeros/as sin permiso.<br />Respetaremos las ideas y trabajos de los demás.<br />Pediremos ayuda si tenemos dudas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781199802530-tmvf0g8bi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>🧚‍♀️ ¿Qué vamos a crear?</strong><br />En este proyecto vamos a crear un cuento digital. 📚💻</p>\n<p>Un cuento digital es una historia que podemos leer en una pantalla y que puede tener:</p>\n<p>✏️ Texto.<br />🎨 Dibujos o imágenes.<br />🎙️ Voz o audio, si es posible.<br />🌈 Colores y elementos visuales.<br />🧒 Personajes inventados.<br />🏰 Lugares mágicos o reales.<br />🧩 Una aventura con inicio, nudo y desenlace.<br />📖 Nuestro cuento tendrá…<br /></p>\n<p>Para que nuestro cuento esté completo, debe incluir:</p>\n<p>1. Un título ✨<br />El título nos dice cómo se llama nuestra historia.</p>\n<p>2. Personajes 🧙‍♂️🐉<br />Son las personas, animales o seres fantásticos que aparecen en el cuento.</p>\n<p>3. Lugar 🏰🌳🚀<br />Es el sitio donde ocurre la historia: un castillo, un bosque, una escuela, una ciudad, el espacio…</p>\n<p>4. Inicio 🟢<br />Aquí contamos quién aparece y dónde empieza la historia.</p>\n<p>5. Nudo 🟡<br />Aquí ocurre un problema, una aventura o una sorpresa.</p>\n<p>6. Desenlace 🔵<br />Aquí contamos cómo termina la historia.</p>\n<p>7. Imágenes o dibujos 🎨<br />Usaremos dibujos o imágenes adecuadas para acompañar nuestro cuento.</p>\n<p style=\"text-align: center;\"><strong>🤝 ¿Cómo trabajaremos?</strong><br />Trabajaremos de forma guiada, algunas veces en gran grupo, otras veces en parejas o pequeños equipos.</p>\n<p>Cada persona tendrá una tarea importante:</p>\n<p>🧠 Pensar ideas.<br />✏️ Escribir frases.<br />🎨 Dibujar o elegir imágenes.<br />💻 Ayudar con la parte digital.<br />🗣️ Presentar el cuento.<br /></p>\n<p style=\"text-align: center;\"><strong>🔐 Importante</strong></p>\n<p style=\"text-align: center;\">Cuando creemos nuestro cuento digital, recordaremos que debemos usar la tecnología de forma segura y responsable:</p>\n<p>No escribiremos datos personales.<br />No usaremos fotos de compañeros/as sin permiso.<br />Respetaremos las ideas y trabajos de los demás.<br />Pediremos ayuda si tenemos dudas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9ugmgh-js2g0v107</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Seguridad digital</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9ugmgh-js2g0v107</odePageId>
+      <odeBlockId>block-1781199681652-k94jzmx6m</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9ugmgh-js2g0v107</odePageId>
+          <odeBlockId>block-1781199681652-k94jzmx6m</odeBlockId>
+          <odeIdeviceId>idevice-1781199681646-mpngmoggc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>🔐 Seguridad digital</strong><br />Antes de crear y compartir nuestro cuento digital, vamos a recordar algunas normas importantes para usar Internet y las herramientas digitales de forma segura y responsable.</p>
+<p style="text-align: center;"><strong>🛡️ Normas básicas</strong></p>
+<p style="text-align: justify;"><br />No escribimos nuestro nombre completo, dirección, teléfono ni contraseñas.<br />No usamos fotos de compañeros/as sin permiso.<br />Pedimos ayuda al maestro/a si aparece algo extraño en la pantalla.<br />Respetamos los trabajos y las ideas de los demás.<br />Usamos imágenes adecuadas y seguras.<br />Pensamos antes de publicar o compartir algo.</p>
+<p style="text-align: center;"><br /><strong>👀 Recuerda</strong></p>
+<p style="text-align: justify;">Internet puede ser muy útil para aprender, crear y compartir, pero debemos utilizarlo con cuidado.<br />Ser responsables en el mundo digital también forma parte de aprender.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781199681646-mpngmoggc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>🔐 Seguridad digital</strong><br />Antes de crear y compartir nuestro cuento digital, vamos a recordar algunas normas importantes para usar Internet y las herramientas digitales de forma segura y responsable.</p>\n<p style=\"text-align: center;\"><strong>🛡️ Normas básicas</strong></p>\n<p style=\"text-align: justify;\"><br />No escribimos nuestro nombre completo, dirección, teléfono ni contraseñas.<br />No usamos fotos de compañeros/as sin permiso.<br />Pedimos ayuda al maestro/a si aparece algo extraño en la pantalla.<br />Respetamos los trabajos y las ideas de los demás.<br />Usamos imágenes adecuadas y seguras.<br />Pensamos antes de publicar o compartir algo.</p>\n<p style=\"text-align: center;\"><br /><strong>👀 Recuerda</strong></p>\n<p style=\"text-align: justify;\">Internet puede ser muy útil para aprender, crear y compartir, pero debemos utilizarlo con cuidado.<br />Ser responsables en el mundo digital también forma parte de aprender.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq9ugmgh-js2g0v107</odePageId>
+      <odeBlockId>block-1781202532676-qyne6uv2f</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9ugmgh-js2g0v107</odePageId>
+          <odeBlockId>block-1781202532676-qyne6uv2f</odeBlockId>
+          <odeIdeviceId>idevice-1781202532674-b94d2ipci</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1781202532674-b94d2ipci" title="" href="{{context_path}}/content/resources/SEGURIDAD DIGITAL.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/SEGURIDAD DIGITAL.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781202532674-b94d2ipci","img_0":{"img":"{{context_path}}/content/resources/SEGURIDAD DIGITAL.png","thumbnail":"{{context_path}}/content/resources/SEGURIDAD DIGITAL.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9ugmgj-27uli3t16</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos para crear el cuento</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para crear el cuento</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para crear el cuento</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9ugmgj-27uli3t16</odePageId>
+      <odeBlockId>block-1781200241808-u4prdn66z</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9ugmgj-27uli3t16</odePageId>
+          <odeBlockId>block-1781200241808-u4prdn66z</odeBlockId>
+          <odeIdeviceId>idevice-1781200241807-l2nrj4h1j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>🧰 Recursos para crear nuestro cuento</strong></p>
+<p><br />En este apartado encontrarás los recursos que vamos a utilizar para imaginar, planificar y crear nuestro cuento digital. 📚✨</p>
+<p>🌈 ¿Para qué sirven estos recursos?<br />Nos ayudarán a:</p>
+<p>🧙‍♀️ Elegir personajes.<br />🏰 Pensar lugares donde puede ocurrir la historia.<br />🧩 Inventar un problema o aventura.<br />🔵 Preparar un final.<br />✏️ Organizar el inicio, el nudo y el desenlace.<br />🎨 Añadir dibujos o imágenes.<br />🔐 Recordar normas de seguridad digital.<br />📌 Nuestro mural de recursos<br />Para consultar todos los materiales, entraremos en este Padlet:</p>
+<p>👉 Abrir Padlet: <a href="https://padlet.com/svilchesca/creamos-un-cuento-oote4y9og54a6nnp" title="">Creamos un cuento</a></p>
+<p>En este mural encontraremos plantillas, ideas, imágenes y recordatorios que nos ayudarán durante todo el proyecto.</p>
+<p>✅ Antes de empezar<br /></p>
+<p>Recuerda:</p>
+<p>Lee o mira los recursos con atención.<br />Pide ayuda si no sabes dónde hacer clic.<br />No escribas datos personales.<br />Respeta los materiales y trabajos de los demás.<br />Usa los recursos para aprender y crear.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781200241807-l2nrj4h1j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>🧰 Recursos para crear nuestro cuento</strong></p>\n<p><br />En este apartado encontrarás los recursos que vamos a utilizar para imaginar, planificar y crear nuestro cuento digital. 📚✨</p>\n<p>🌈 ¿Para qué sirven estos recursos?<br />Nos ayudarán a:</p>\n<p>🧙‍♀️ Elegir personajes.<br />🏰 Pensar lugares donde puede ocurrir la historia.<br />🧩 Inventar un problema o aventura.<br />🔵 Preparar un final.<br />✏️ Organizar el inicio, el nudo y el desenlace.<br />🎨 Añadir dibujos o imágenes.<br />🔐 Recordar normas de seguridad digital.<br />📌 Nuestro mural de recursos<br />Para consultar todos los materiales, entraremos en este Padlet:</p>\n<p>👉 Abrir Padlet: <a href=\"https://padlet.com/svilchesca/creamos-un-cuento-oote4y9og54a6nnp\" title=\"\">Creamos un cuento</a></p>\n<p>En este mural encontraremos plantillas, ideas, imágenes y recordatorios que nos ayudarán durante todo el proyecto.</p>\n<p>✅ Antes de empezar<br /></p>\n<p>Recuerda:</p>\n<p>Lee o mira los recursos con atención.<br />Pide ayuda si no sabes dónde hacer clic.<br />No escribas datos personales.<br />Respeta los materiales y trabajos de los demás.<br />Usa los recursos para aprender y crear.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9ugmgk-t4mxk9rdu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9ugmgk-t4mxk9rdu</odePageId>
+      <odeBlockId>block-1781200310184-r8p1vaoda</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9ugmgk-t4mxk9rdu</odePageId>
+          <odeBlockId>block-1781200310184-r8p1vaoda</odeBlockId>
+          <odeIdeviceId>idevice-1781200310183-isn669o9e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>🗓️ Línea temporal del proyecto</strong></p>
+<p style="text-align: center;">En esta línea temporal podemos ver las fases que seguiremos para crear nuestro cuento digital.</p>
+<p style="text-align: justify;">El proyecto se organiza en diferentes sesiones. Primero conoceremos cuentos, después pensaremos nuestras ideas, escribiremos la historia, la transformaremos en formato digital y, finalmente, la presentaremos a la clase.</p>
+<p style="text-align: center;"><strong>🚀 Fases del proyecto</strong></p>
+<p style="text-align: justify;"><br />📖 Conocemos cuentos: leemos y escuchamos cuentos para descubrir sus partes principales.<br />🧠 Pensamos ideas: elegimos personajes, lugares, problemas y posibles finales.<br />✏️ Escribimos nuestro cuento:organizamos la historia en inicio, nudo y desenlace.<br />🎨 Creamos la parte visual: añadimos dibujos, imágenes o elementos visuales.<br />💻 Creamos el cuento digital: pasamos nuestro cuento a formato digital con ayuda del docente.<br />🗣️ Presentamos el cuento: compartimos nuestro trabajo con los compañeros y compañeras.<br />🔍 Revisamos y mejoramos: valoramos lo que hemos aprendido y cómo podemos mejorar.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781200310183-isn669o9e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>🗓️ Línea temporal del proyecto</strong></p>\n<p style=\"text-align: center;\">En esta línea temporal podemos ver las fases que seguiremos para crear nuestro cuento digital.</p>\n<p style=\"text-align: justify;\">El proyecto se organiza en diferentes sesiones. Primero conoceremos cuentos, después pensaremos nuestras ideas, escribiremos la historia, la transformaremos en formato digital y, finalmente, la presentaremos a la clase.</p>\n<p style=\"text-align: center;\"><strong>🚀 Fases del proyecto</strong></p>\n<p style=\"text-align: justify;\"><br />📖 Conocemos cuentos: leemos y escuchamos cuentos para descubrir sus partes principales.<br />🧠 Pensamos ideas: elegimos personajes, lugares, problemas y posibles finales.<br />✏️ Escribimos nuestro cuento:organizamos la historia en inicio, nudo y desenlace.<br />🎨 Creamos la parte visual: añadimos dibujos, imágenes o elementos visuales.<br />💻 Creamos el cuento digital: pasamos nuestro cuento a formato digital con ayuda del docente.<br />🗣️ Presentamos el cuento: compartimos nuestro trabajo con los compañeros y compañeras.<br />🔍 Revisamos y mejoramos: valoramos lo que hemos aprendido y cómo podemos mejorar.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq9ugmgk-t4mxk9rdu</odePageId>
+      <odeBlockId>block-1781200623571-vll21thig</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9ugmgk-t4mxk9rdu</odePageId>
+          <odeBlockId>block-1781200623571-vll21thig</odeBlockId>
+          <odeIdeviceId>idevice-1781200623556-ygvcjq9au</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/linea temporal_cuento_digital_silvia_vilches (1).pdf.png" title="Linea temporal" width="1536" height="1086" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781200623556-ygvcjq9au","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/linea temporal_cuento_digital_silvia_vilches (1).pdf.png\" title=\"Linea temporal\" width=\"1536\" height=\"1086\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9ugmgl-z8rk1b648</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9ugmgl-z8rk1b648</odePageId>
+      <odeBlockId>block-1781201157809-dfzldzvb7</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9ugmgl-z8rk1b648</odePageId>
+          <odeBlockId>block-1781201157809-dfzldzvb7</odeBlockId>
+          <odeIdeviceId>idevice-1781201157806-71zhgx91v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>👩‍🏫 Guía didáctica</strong><br /></p>
+<p>Esta guía didáctica recoge la información principal para que el proyecto “Creamos nuestro cuento digital” pueda desarrollarse en el aula de forma organizada, inclusiva y segura.</p>
+<p style="text-align: center;"><strong>📌 Datos generales</strong></p>
+<p><br />Título: Creamos nuestro cuento digital<br />Etapa: Educación Primaria<br />Curso: 1.º de Educación Primaria<br />Área principal: Lengua Castellana y Literatura<br />Producto final: creación de un cuento digital sencillo<br />Agrupamientos: gran grupo, parejas, pequeños equipos y trabajo individual guiado<br />Duración aproximada: varias sesiones organizadas en una línea temporal progresiva</p>
+<p style="text-align: center;"><strong>🎯 Finalidad del proyecto</strong></p>
+<p><br />La finalidad de esta situación de aprendizaje es que el alumnado desarrolle la expresión oral y escrita mediante la creación de un cuento, integrando recursos digitales de forma guiada, segura y responsable.</p>
+<p>El proyecto permite trabajar la comprensión de cuentos, la planificación de ideas, la escritura de frases sencillas, la creatividad, la cooperación y la competencia digital desde un enfoque adaptado a la edad del alumnado.</p>
+<p style="text-align: center;"><strong>🧩 Metodología</strong><br /></p>
+<p>La metodología será activa, participativa y guiada. El alumnado aprenderá creando un producto final significativo: su propio cuento digital.</p>
+<p>Se partirá de ejemplos sencillos de cuentos y se acompañará al alumnado en todo el proceso:</p>
+<p>lectura y escucha de cuentos;<br />identificación de personajes, lugares y estructura narrativa;<br />planificación de ideas;<br />escritura del cuento;<br />creación de dibujos o selección de imágenes adecuadas;<br />elaboración del cuento digital;<br />revisión y presentación final.<br /></p>
+<p style="text-align: center;"><strong>🤝 Atención a la diversidad</strong></p>
+<p><br />La propuesta tiene en cuenta diferentes ritmos de aprendizaje mediante:</p>
+<ul>
+<li>apoyos visuales</li>
+<li>ejemplos guiados</li>
+<li>plantillas sencillas</li>
+<li>trabajo cooperativo</li>
+<li>ayuda del docente</li>
+<li>posibilidad de expresar ideas mediante dibujos</li>
+<li>palabras o frases breves</li>
+<li>revisión progresiva del trabajo</li>
+</ul>
+<p style="text-align: center;"><br /><strong>💻 Uso de la tecnología</strong></p>
+<p style="text-align: center;">La tecnología se utilizará como medio para crear, comunicar y compartir aprendizajes. El alumnado empleará herramientas digitales de forma guiada, respetando normas básicas de seguridad digital y protección de datos.</p>
+<p>📎<strong> Documento curricular</strong><br />A continuación, se incluye el documento con la asociación de tareas y criterios de evaluación correspondientes al proyecto.</p>
+<p><a href="https://drive.google.com/file/d/1BrgFK1nyPIAnV6NoxTzGDMejYLPETXG8/view?usp=sharing" title="">RELACIONAMOS TAREAS CON CRITERIOS</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781201157806-71zhgx91v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>👩‍🏫 Guía didáctica</strong><br /></p>\n<p>Esta guía didáctica recoge la información principal para que el proyecto “Creamos nuestro cuento digital” pueda desarrollarse en el aula de forma organizada, inclusiva y segura.</p>\n<p style=\"text-align: center;\"><strong>📌 Datos generales</strong></p>\n<p><br />Título: Creamos nuestro cuento digital<br />Etapa: Educación Primaria<br />Curso: 1.º de Educación Primaria<br />Área principal: Lengua Castellana y Literatura<br />Producto final: creación de un cuento digital sencillo<br />Agrupamientos: gran grupo, parejas, pequeños equipos y trabajo individual guiado<br />Duración aproximada: varias sesiones organizadas en una línea temporal progresiva</p>\n<p style=\"text-align: center;\"><strong>🎯 Finalidad del proyecto</strong></p>\n<p><br />La finalidad de esta situación de aprendizaje es que el alumnado desarrolle la expresión oral y escrita mediante la creación de un cuento, integrando recursos digitales de forma guiada, segura y responsable.</p>\n<p>El proyecto permite trabajar la comprensión de cuentos, la planificación de ideas, la escritura de frases sencillas, la creatividad, la cooperación y la competencia digital desde un enfoque adaptado a la edad del alumnado.</p>\n<p style=\"text-align: center;\"><strong>🧩 Metodología</strong><br /></p>\n<p>La metodología será activa, participativa y guiada. El alumnado aprenderá creando un producto final significativo: su propio cuento digital.</p>\n<p>Se partirá de ejemplos sencillos de cuentos y se acompañará al alumnado en todo el proceso:</p>\n<p>lectura y escucha de cuentos;<br />identificación de personajes, lugares y estructura narrativa;<br />planificación de ideas;<br />escritura del cuento;<br />creación de dibujos o selección de imágenes adecuadas;<br />elaboración del cuento digital;<br />revisión y presentación final.<br /></p>\n<p style=\"text-align: center;\"><strong>🤝 Atención a la diversidad</strong></p>\n<p><br />La propuesta tiene en cuenta diferentes ritmos de aprendizaje mediante:</p>\n<ul>\n<li>apoyos visuales</li>\n<li>ejemplos guiados</li>\n<li>plantillas sencillas</li>\n<li>trabajo cooperativo</li>\n<li>ayuda del docente</li>\n<li>posibilidad de expresar ideas mediante dibujos</li>\n<li>palabras o frases breves</li>\n<li>revisión progresiva del trabajo</li>\n</ul>\n<p style=\"text-align: center;\"><br /><strong>💻 Uso de la tecnología</strong></p>\n<p style=\"text-align: center;\">La tecnología se utilizará como medio para crear, comunicar y compartir aprendizajes. El alumnado empleará herramientas digitales de forma guiada, respetando normas básicas de seguridad digital y protección de datos.</p>\n<p>📎<strong> Documento curricular</strong><br />A continuación, se incluye el documento con la asociación de tareas y criterios de evaluación correspondientes al proyecto.</p>\n<p><a href=\"https://drive.google.com/file/d/1BrgFK1nyPIAnV6NoxTzGDMejYLPETXG8/view?usp=sharing\" title=\"\">RELACIONAMOS TAREAS CON CRITERIOS</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9ugmgl-bqbm3oruu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9ugmgl-bqbm3oruu</odePageId>
+      <odeBlockId>block-1781202013317-8ilp7iin2</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9ugmgl-bqbm3oruu</odePageId>
+          <odeBlockId>block-1781202013317-8ilp7iin2</odeBlockId>
+          <odeIdeviceId>idevice-1781202013311-rluxiou04</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>✅ Evaluación</strong></p>
+<p><br />La evaluación del proyecto “Creamos nuestro cuento digital” será continua, formativa y adaptada al nivel de 1.º de Educación Primaria.</p>
+<p>No solo se valorará el producto final, sino también todo el proceso de aprendizaje: la participación, la planificación del cuento, la escritura, la creatividad, el trabajo en equipo, el uso responsable de la tecnología y la presentación final.</p>
+<p>🔍 ¿Qué vamos a evaluar?<br />Durante el proyecto se observarán los siguientes aspectos:</p>
+<p>📖 Comprende cuentos sencillos y reconoce sus partes principales.<br />🧩 Identifica el inicio, el nudo y el desenlace de una historia.<br />🧙‍♀️ Propone personajes, lugares e ideas para crear un cuento.<br />✏️ Escribe frases sencillas relacionadas con la historia.<br />🎨 Añade dibujos o imágenes adecuadas.<br />💻 Usa la herramienta digital con ayuda y de forma responsable.<br />🤝 Participa y respeta las ideas de sus compañeros/as.<br />🗣️ Presenta su cuento de forma sencilla ante la clase.<br />🛠️ Instrumentos de evaluación<br />Para recoger información sobre el aprendizaje del alumnado se utilizarán varios instrumentos:</p>
+<p><strong>1. Lista de cotejo</strong><br />Servirá para comprobar si el alumnado va completando los pasos principales del proyecto.</p>
+<p><strong>2. Rúbrica</strong><br />Permitirá valorar el cuento digital final teniendo en cuenta la estructura, la claridad, la creatividad, la presentación y el uso responsable de la tecnología.</p>
+<p><strong>3. Diana de autoevaluación</strong><br />Ayudará al alumnado a pensar sobre su propio trabajo: qué ha aprendido, cómo ha participado y qué puede mejorar.</p>
+<p><strong>4. Registro anecdótico docente</strong><br />Permitirá recoger observaciones importantes durante el desarrollo de las sesiones.</p>
+<p><strong>💬 Feedback y mejora</strong><br />La evaluación servirá para acompañar al alumnado durante todo el proceso. El docente ofrecerá ayuda, orientaciones y propuestas de mejora antes de llegar al producto final.</p>
+<p>Así, la evaluación no será solo una calificación, sino una forma de aprender mejor.</p>
+<p><br />“Puedes consultar los instrumentos de evaluación diseñados para este proyecto en el siguiente enlace:<br />📎 <a href="https://drive.google.com/file/d/1xda_WTy5GZOhJrQJ06PmSbquoh2cL32A/view?usp=sharing" title="">Descargar instrumentos de evaluación del proyecto”</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781202013311-rluxiou04","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>✅ Evaluación</strong></p>\n<p><br />La evaluación del proyecto “Creamos nuestro cuento digital” será continua, formativa y adaptada al nivel de 1.º de Educación Primaria.</p>\n<p>No solo se valorará el producto final, sino también todo el proceso de aprendizaje: la participación, la planificación del cuento, la escritura, la creatividad, el trabajo en equipo, el uso responsable de la tecnología y la presentación final.</p>\n<p>🔍 ¿Qué vamos a evaluar?<br />Durante el proyecto se observarán los siguientes aspectos:</p>\n<p>📖 Comprende cuentos sencillos y reconoce sus partes principales.<br />🧩 Identifica el inicio, el nudo y el desenlace de una historia.<br />🧙‍♀️ Propone personajes, lugares e ideas para crear un cuento.<br />✏️ Escribe frases sencillas relacionadas con la historia.<br />🎨 Añade dibujos o imágenes adecuadas.<br />💻 Usa la herramienta digital con ayuda y de forma responsable.<br />🤝 Participa y respeta las ideas de sus compañeros/as.<br />🗣️ Presenta su cuento de forma sencilla ante la clase.<br />🛠️ Instrumentos de evaluación<br />Para recoger información sobre el aprendizaje del alumnado se utilizarán varios instrumentos:</p>\n<p><strong>1. Lista de cotejo</strong><br />Servirá para comprobar si el alumnado va completando los pasos principales del proyecto.</p>\n<p><strong>2. Rúbrica</strong><br />Permitirá valorar el cuento digital final teniendo en cuenta la estructura, la claridad, la creatividad, la presentación y el uso responsable de la tecnología.</p>\n<p><strong>3. Diana de autoevaluación</strong><br />Ayudará al alumnado a pensar sobre su propio trabajo: qué ha aprendido, cómo ha participado y qué puede mejorar.</p>\n<p><strong>4. Registro anecdótico docente</strong><br />Permitirá recoger observaciones importantes durante el desarrollo de las sesiones.</p>\n<p><strong>💬 Feedback y mejora</strong><br />La evaluación servirá para acompañar al alumnado durante todo el proceso. El docente ofrecerá ayuda, orientaciones y propuestas de mejora antes de llegar al producto final.</p>\n<p>Así, la evaluación no será solo una calificación, sino una forma de aprender mejor.</p>\n<p><br />“Puedes consultar los instrumentos de evaluación diseñados para este proyecto en el siguiente enlace:<br />📎 <a href=\"https://drive.google.com/file/d/1xda_WTy5GZOhJrQJ06PmSbquoh2cL32A/view?usp=sharing\" title=\"\">Descargar instrumentos de evaluación del proyecto”</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9ugmgm-comegilei</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos y descarga</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9ugmgm-comegilei</odePageId>
+      <odeBlockId>block-1781202453228-xkt1bw18u</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9ugmgm-comegilei</odePageId>
+          <odeBlockId>block-1781202453228-xkt1bw18u</odeBlockId>
+          <odeIdeviceId>idevice-1781202453221-ihx7jy863</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>📝 Créditos y descarga</strong></p>
+<p><br /><strong>👩‍🏫 Autoría</strong><br />Este recurso educativo ha sido elaborado por Silvia Vilches como producto final del curso B2 de Competencia Digital Docente.</p>
+<p><strong>📚 Título del recurso: "</strong>Creamos nuestro cuento digital"</p>
+<p><strong>📌 Descripción</strong><br />Este recurso presenta una situación de aprendizaje dirigida al alumnado de 1.º de Educación Primaria, centrada en la creación de un cuento digital sencillo. A través del proyecto, el alumnado trabaja la comprensión y creación de cuentos, la expresión oral y escrita, la creatividad, el trabajo cooperativo y el uso seguro y responsable de la tecnología.</p>
+<p><strong>🎯 Finalidad educativa</strong><br />La finalidad del recurso es guiar al alumnado en el proceso de creación de un cuento digital, partiendo de la lectura y análisis de cuentos, la planificación de ideas, la escritura guiada, la incorporación de imágenes o dibujos y la presentación final del producto.</p>
+<p><strong>🔐 Uso responsable y derechos digitales</strong><br />El recurso incluye orientaciones para trabajar la seguridad digital, la protección de datos personales y el uso adecuado de imágenes y recursos digitales en el aula.</p>
+<p><strong>🖼️ Recursos e imágenes utilizados</strong><br />Las imágenes, iconos y materiales visuales incluidos en este recurso se han utilizado con finalidad educativa. Se recomienda emplear imágenes de creación propia, bancos de imágenes libres o recursos con licencia abierta, respetando siempre la autoría y las condiciones de uso.</p>
+<p><strong>⚖️ Licencia</strong><br />Este recurso se comparte bajo licencia:</p>
+<p>Creative Commons Reconocimiento - No Comercial - Compartir Igual 4.0 Internacional (CC BY-NC-SA 4.0)</p>
+<p>Esto significa que puede compartirse y adaptarse con fines educativos, siempre que se reconozca la autoría, no se utilice con fines comerciales y se mantenga la misma licencia.</p>
+<p>📥 Descarga del recurso editable<br />A continuación, se ofrece el archivo editable del proyecto para que pueda descargarse, revisarse o adaptarse:</p>
+<p>📎 <a href="{{context_path}}/content/resources/creamos_nuestro_cuento_digital_silvia_vilches.elpx" title="creamos_nuestro_cuento_digital_silvia_vilches.elpx">Descargar archivo editable del recurso</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781202453221-ihx7jy863","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>📝 Créditos y descarga</strong></p>\n<p><br /><strong>👩‍🏫 Autoría</strong><br />Este recurso educativo ha sido elaborado por Silvia Vilches como producto final del curso B2 de Competencia Digital Docente.</p>\n<p><strong>📚 Título del recurso: \"</strong>Creamos nuestro cuento digital\"</p>\n<p><strong>📌 Descripción</strong><br />Este recurso presenta una situación de aprendizaje dirigida al alumnado de 1.º de Educación Primaria, centrada en la creación de un cuento digital sencillo. A través del proyecto, el alumnado trabaja la comprensión y creación de cuentos, la expresión oral y escrita, la creatividad, el trabajo cooperativo y el uso seguro y responsable de la tecnología.</p>\n<p><strong>🎯 Finalidad educativa</strong><br />La finalidad del recurso es guiar al alumnado en el proceso de creación de un cuento digital, partiendo de la lectura y análisis de cuentos, la planificación de ideas, la escritura guiada, la incorporación de imágenes o dibujos y la presentación final del producto.</p>\n<p><strong>🔐 Uso responsable y derechos digitales</strong><br />El recurso incluye orientaciones para trabajar la seguridad digital, la protección de datos personales y el uso adecuado de imágenes y recursos digitales en el aula.</p>\n<p><strong>🖼️ Recursos e imágenes utilizados</strong><br />Las imágenes, iconos y materiales visuales incluidos en este recurso se han utilizado con finalidad educativa. Se recomienda emplear imágenes de creación propia, bancos de imágenes libres o recursos con licencia abierta, respetando siempre la autoría y las condiciones de uso.</p>\n<p><strong>⚖️ Licencia</strong><br />Este recurso se comparte bajo licencia:</p>\n<p>Creative Commons Reconocimiento - No Comercial - Compartir Igual 4.0 Internacional (CC BY-NC-SA 4.0)</p>\n<p>Esto significa que puede compartirse y adaptarse con fines educativos, siempre que se reconozca la autoría, no se utilice con fines comerciales y se mantenga la misma licencia.</p>\n<p>📥 Descarga del recurso editable<br />A continuación, se ofrece el archivo editable del proyecto para que pueda descargarse, revisarse o adaptarse:</p>\n<p>📎 <a href=\"{{context_path}}/content/resources/creamos_nuestro_cuento_digital_silvia_vilches.elpx\" title=\"creamos_nuestro_cuento_digital_silvia_vilches.elpx\">Descargar archivo editable del recurso</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
